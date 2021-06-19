@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_are_the_features_of_microsoft_teams">
+    <title>What are the features of Microsoft Teams</title>
+    <shortdesc>Here you will learn what are the features of Microsoft Teams.</shortdesc>
+    <conbody>
+        <p>Even though Microsoft Teams rolls out new features very often, below you can see the most
+            important ones.</p>
+        <p>
+            <ul id="ul_y4q_twd_zpb">
+                <li><b>Teams</b> and channels. ...</li>
+                <li>Conversations within channels and <b>teams</b>. ...</li>
+                <li>A chat function. ...</li>
+                <li>Document storage in SharePoint. ...</li>
+                <li>Online video calling and screen sharing. ...</li>
+                <li>Online meetings. ...</li>
+                <li>Audio conferencing. ...</li>
+                <li>Full telephony.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

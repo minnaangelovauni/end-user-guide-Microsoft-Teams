@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="references">
+    <title>References</title>
+    <refbody> </refbody>
+    <related-links>
+        <link
+            href="https://support.microsoft.com/en-us/office/chat-and-share-files-in-teams-d7978db0-33b5-4ad3-93ac-ef0bd3c2a670"
+            format="html" scope="external"/>
+        <link href="https://docs.microsoft.com/en-us/microsoftteams/teams-overview" format="html"
+            scope="external"/>
+        <link
+            href="https://docs.microsoft.com/en-us/microsoftteams/quick-start-meetings-live-events"
+            format="html" scope="external"/>
+    </related-links>
+</reference>

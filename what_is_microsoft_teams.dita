@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_microsoft_teams">
+    <title>What is Microsoft Teams?</title>
+    <shortdesc>Here you will learn what is Microsoft Teams.</shortdesc>
+    <conbody>
+        <p>Microsoft Teams is a collaboration app that helps your team stay organized and have
+            conversations—all in one place. Here's a quick look at the left hand side of Teams.</p>
+        <ul id="ul_xf5_15d_zpb">
+            <li>
+                <p>Teams - Find channels to belong to or create your own. Inside channels you can
+                    hold on-the-spot meetings, have conversations, and share files.</p>
+            </li>
+            <li>
+                <p>Meetings - See everything you’ve got lined up for the day or week. Or, schedule a
+                    meeting. This calendar syncs with your Outlook calendar.</p>
+            </li>
+            <li>
+                <p>Calls - In some cases, if your organization has it set up, you can call anyone
+                    from Teams, even if they’re not using Teams.</p>
+            </li>
+            <li>
+                <p>Activity - Catch up on all your unread messages, @mentions, replies, and
+                    more.</p>
+            </li>
+        </ul>
+        <p>Use the command box at the top to search for specific items or people, take quick
+            actions, and launch apps.<image placement="break" href="../../../../Desktop/1.jpg"
+                align="right" id="image_o35_g5d_zpb"/></p>
+    </conbody>
+</concept>

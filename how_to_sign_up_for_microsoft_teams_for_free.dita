@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_sign_up_for_microsoft_teams_free">
+    <title>How to sign up for Microsoft Teams for free</title>
+    <shortdesc>Here you will learn how to sign up for free in Microsoft Teams.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Before you get started, it's important that you make sure you're logged out of any
+                Microsoft accounts.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <xref href="https://products.office.com/en-us/microsoft-teams"
+                        format="html" scope="external">Get Teams for free</xref> and choose the Sign
+                    up for free button. If you don't see the Sign up for free button, scroll down
+                    (nearly to the bottom of the page) to Get Microsoft Teams for your organization
+                    today, and then select Sign up for free. </cmd>
+                <info>
+                    <p>Enter the email address you want to use with Microsoft Teams free.</p>
+                </info>
+                <info>
+                    <image placement="break" href="../../../../Desktop/enteremail.png"
+                        align="center" id="image_yg1_yxd_zpb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>On the next screen, answer the question about how you want to use Teams. <image
+                        placement="break" href="../../../../Desktop/howtouseteams.png"
+                        align="center" id="image_pr4_kyd_zpb"/></cmd>
+            </step>
+            <step>
+                <cmd>If you choose For school, you'll be prompted to enter your school email address
+                    to see if you have access to Teams through your school. If you choose For
+                    friends and family, you'll be directed to sign up for Skype. If you choose For
+                    work, you can continue to Step 4.</cmd>
+            </step>
+            <step>
+                <cmd>You'll be asked to verify your information again in this step. If you have
+                    multi-factor authentication enabled, you may be prompted on your phone.
+                    Otherwise you'll need to provide your password here. </cmd>
+            </step>
+            <step>
+                <cmd>After that, fill in your name and the other requested info, and then click Set
+                    up Teams. <image placement="break" href="../../../../Desktop/thelastfew.png"
+                        align="center" id="image_f3x_wyd_zpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Then wait patiently while Microsoft creates your Teams account and then sets it
+                    up for you to use. (This process can take up to a minute. You'll see two loading
+                    screens.) <image placement="break" href="../../../../Desktop/load.png"
+                        align="center" id="image_rhk_1zd_zpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Finally, you'll be prompted to download the Teams desktop app or use Teams web
+                    app. <image placement="break" href="../../../../Desktop/staybetter.png"
+                        align="center" id="image_lx5_czd_zpb"/></cmd>
+            </step>
+            <step>
+                <cmd>When you start using Teams, you'll be prompted to invite others to join your
+                    Teams org. People that you invite will notneed to go through this process. They
+                    can simply join your Teams org. <image placement="break"
+                        href="../../../../Desktop/copylink.png" align="center"
+                        id="image_o5x_fzd_zpb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

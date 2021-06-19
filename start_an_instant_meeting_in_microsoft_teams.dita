@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="start_an_instant_meeting_in_microsoft_teams">
+    <title>Start an instant meeting in Microsoft Teams</title>
+    <shortdesc>Here you will learn how to start an instant meeting in Microsoft Teams.</shortdesc>
+    <conbody>
+        <p>From your calendar: </p>
+        <ol id="ol_kxh_4c2_zpb">
+            <li>Go to Calendar Meetings button on the left side of Teams, then select Meet now Meet
+                now button in the upper right corner.</li>
+            <li>You'll have a chance to set a few things up before you start your meeting. Give it a
+                title, choose whether you want to use video, and pick your preferred audio source. </li>
+            <li>When you're ready, hit Join now.</li>
+        </ol>
+        <p>Your meeting is now up and running—you just need people to join you. </p>
+        <p>In a channel:</p>
+        <ol id="ol_vn4_yc2_zpb">
+            <li>Go to Teams Teams button on the left side of the app. Choose the channel you want to
+                meet in from the list. </li>
+            <li>In the Posts tab, look for Meet Meet now button in the top-right corner. From the
+                drop-down, select Meet now. Or, to keep the context of a specific conversation,
+                choose Reply below any post, and then Meet now Meet now button under the box where
+                you'd type your message.</li>
+            <li>Give your meeting a title and choose whether you want to include video. </li>
+            <li>When you're ready, hit Join now.</li>
+        </ol>
+    </conbody>
+</concept>

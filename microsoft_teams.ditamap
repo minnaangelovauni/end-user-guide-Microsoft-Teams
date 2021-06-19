@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Microsoft Teams</title>
+    <topicref href="end_user_guide_for_microsoft_teams.dita"/>
+    <topicref href="what_is_microsoft_teams.dita"/>
+    <topicref href="what_are_the_features_of_microsoft_teams.dita"/>
+    <topicref href="how_to_sign_up_for_microsoft_teams_for_free.dita"/>
+    <topicref href="start_an_instant_meeting_in_microsoft_teams.dita"/>
+    <topicref href="how_to_change_your_background_for_a_teams_meeting.dita"/>
+    <topicref href="how_to_share_a_file_in_microsoft_teams.dita"/>
+    <topicref href="references.dita"/>
+</map>

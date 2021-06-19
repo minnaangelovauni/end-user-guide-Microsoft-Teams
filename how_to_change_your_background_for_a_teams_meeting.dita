@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="how_to_change_your_background_for_a_teams_meeting">
+    <title>How to change your background for a Teams meeting</title>
+    <shortdesc>Here you will learn how to change your background for a Teams meeting. If you want to
+        change what appears behind you in your video meeting or call, you can either <xref
+            href="https://www.microsoft.com/microsoft-teams/background-blur?ocid=oo_support_mix_marvel_ups_support_smcteam_inline"
+            format="html" scope="external">blur your background</xref> or replace it entirely with
+        any image you want. </shortdesc>
+    <conbody>
+        <ol id="ol_qzt_h42_zpb">
+            <li>While you're setting up your video and audio before joining a meeting, select
+                Background filters <image
+                    href="https://support.content.office.net/en-us/media/38f2fc32-9e2f-4763-9618-1b40149ae9c4.png"
+                    id="image_qcw_h42_zpb"/> . It's just below the video image. </li>
+            <li>
+                <ol id="ol_ogx_342_zpb">
+                    <li>
+                        <p>Select Blur to blur your background. You'll appear nice and clear while
+                            everything behind you is subtly concealed. </p>
+                        <p>You can also replace your background with one of the images provided, or
+                            with one of your own choosing. To use an image of your own, select Add
+                            new and then select one to upload from your computer. Make sure it's a
+                            .JPG, .PNG, or .BMP file.</p>
+                    </li>
+                </ol>
+                <p>Your new background will persist in all your meetings and calls until you change
+                    it again.</p>
+            </li>
+            <li>To turn off background effects, select <image
+                    href="https://support.content.office.net/en-us/media/1dde3ae6-b817-4907-8348-261745e4145f.png"
+                    id="image_bc4_j42_zpb"/> .</li>
+        </ol>
+    </conbody>
+</concept>

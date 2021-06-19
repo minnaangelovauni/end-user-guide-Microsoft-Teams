@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="how_to_share_a_file_in_microsoft_teams">
+    <title>How to share a file in Microsoft Teams</title>
+    <shortdesc>Here you will learn how to share a file in Microsoft Teams.</shortdesc>
+    <conbody>
+        <p>Sometimes words aren't enough, and you need to post a file to a channel conversation.</p>
+        <ol id="ol_vzt_fj2_zpb">
+            <li>
+                <ol id="ol_ndx_fj2_zpb">
+                    <li>
+                        <p>In your channel conversation, click Attach <image
+                                href="https://support.content.office.net/en-us/media/7d80c119-1dd4-4bb5-bc66-19c743bdf4d0.png"
+                                id="image_odx_fj2_zpb"/> under the box where you type your
+                            message.</p>
+                    </li>
+                </ol>
+            </li>
+            <li>Select from these options: <ul id="ul_ygx_kj2_zpb">
+                    <li>Recent</li>
+                    <li>Browse Teams and Channels</li>
+                    <li>OneDrive</li>
+                    <li>Upload from my computer</li>
+                </ul></li>
+            <li>Select a file > Share a link.</li>
+            <li>If you're uploading a file from your computer, select a file, click Open, and then
+                Send <image
+                    href="https://support.content.office.net/en-us/media/7e63e0a5-61b9-4add-8b5a-98a50022c53b.png"
+                    id="image_vkh_rj2_zpb"/> .</li>
+        </ol>
+    </conbody>
+</concept>
